@@ -105,3 +105,10 @@ Spatial Transcriptomics Tools
 * `PASTE <https://github.com/raphael-group/paste>`__ :small:`Princeton`
 
     | PASTE is a computational method to align and integrate spatial transcriptomics data across adjacent tissue slices by leveraging both gene expression similarity and spatial distances between spots.
+
+
+Multi-Sample Single-Cell Data
+-----------------------------
+* `Covarying neighborhood analysis <https://github.com/immunogenomics/cna>`__ :small:`Harvard University`
+
+    | Covarying neighborhood analysis (CNA) is a method for finding structure and conducting association analysis in multi-sample single-cell datasets without requiring a pre-specified transcriptional structure such as clustering.
